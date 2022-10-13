@@ -14,7 +14,7 @@
 
 ## Dataset used in this segment
 
-The famous Prostate cancer dataset is studied using
+The Prostate cancer dataset is studied using
 
 Machine Learning classification learning tools. 
 
