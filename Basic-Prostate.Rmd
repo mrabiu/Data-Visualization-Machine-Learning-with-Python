@@ -14,10 +14,9 @@
 
 ## Dataset used in this segment
 
-The famous Pima Indian Diabetes dataset is well known benchmark data used by my
-Machine Learning researchers in the context of classification learning. The input
-space in this case is only 7-dimensional and the classification is binary, but the
-underlying classification turns out to be rather challenging
+The famous Prostate cancer dataset is studied using
+
+Machine Learning classification learning tools. 
 
 ```{R}
   dt<-read.csv("prostate-cancer-1.csv", header=TRUE)
